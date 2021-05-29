@@ -30,4 +30,6 @@ For each topic in the topic tree, the database stores the following information:
 
  - Breakdown of alcohol: [https://pencil-backend-assessment.herokuapp.com/search?q=Breakdown%20of%20alcohol](https://pencil-backend-assessment.herokuapp.com/search?q=Breakdown%20of%20alcohol)
  - Golgi body: [https://pencil-backend-assessment.herokuapp.com/search?q=Golgi%20body](https://pencil-backend-assessment.herokuapp.com/search?q=Golgi%20body)
+ - State the role of blood in transport and defence: [http://pencil-backend-assessment.herokuapp.com/search?q=State%20the%20role%20of%20blood%20in%20transport%20and%20defence](http://pencil-backend-assessment.herokuapp.com/search?q=State%20the%20role%20of%20blood%20in%20transport%20and%20defence)
+ - Absorption – root hair cells [http://pencil-backend-assessment.herokuapp.com/search?q=Absorption%20%E2%80%93%20root%20hair%20cells](http://pencil-backend-assessment.herokuapp.com/search?q=Absorption%20%E2%80%93%20root%20hair%20cells)
  - All Questions i.e. root: [https://pencil-backend-assessment.herokuapp.com/search?q=all](https://pencil-backend-assessment.herokuapp.com/search?q=all)
