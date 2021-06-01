@@ -1,6 +1,7 @@
 import express from 'express'
-const router = express.Router()
 import TopicTree from '../models/topic.js'
+
+const router = express.Router()
 
 const getQuestions = async (req, res) => {
 
